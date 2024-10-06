@@ -1,8 +1,5 @@
 # 📨 Email Spam Detection
 
-## Project ID
-**20945480**
-
 ## Overview
 The Email Spam Detection project focuses on effectively categorizing incoming emails into spam and non-spam classes using machine learning techniques. By leveraging Natural Language Processing (NLP) and various classification algorithms, the project aims to enhance email filtering systems.
 
